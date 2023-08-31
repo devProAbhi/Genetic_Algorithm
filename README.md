@@ -1,6 +1,6 @@
 # Genetic_Algorithm
 
-**Here There Two Folders **
+**Here There Two Folders**
 
 1) Application of GI - In this we used GA to solve Problems related to Matematicals Equations and some Codding problems ( Eg - Knapsack )
 
