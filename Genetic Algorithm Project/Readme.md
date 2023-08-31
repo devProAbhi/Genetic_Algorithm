@@ -1,4 +1,4 @@
-#OptiRoute Mumbai: Genetic Algorithm-based Route Optimization
+# OptiRoute Mumbai: Genetic Algorithm-based Route Optimization
 
 **Project Overview:**
 1. **Route Optimization using Genetic Algorithm:** This project employs a genetic algorithm to find the most optimal path that connects 62 key cities in Mumbai. The genetic algorithm iteratively evolves routes, aiming to minimize the total distance traveled and improve the efficiency of travel between these cities.
